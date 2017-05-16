@@ -1,1 +1,2 @@
-# Udacity_DLND_P1_Master
+# DLND-P1
+DLND Project 1: Your first neural network
